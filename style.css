@@ -122,4 +122,59 @@ h4{
 
 .col-md-4{
     margin: 5px;
+    padding-bottom: 14px;
 }
+
+.card-body{
+    margin-top: 24px;
+}
+.image5 img{
+    height: 120px;
+    width: 120px;
+
+  
+    
+}
+
+.pha{
+ width: 580px;
+ height: 90px;
+ margin-left: 52px;
+}
+.test, .sssg{
+    margin-top: 50px;
+}
+
+.sssg{
+    margin-bottom: 127px; 
+}
+
+footer{
+    background-color: #282531;
+    height: 370px;
+    
+    padding-top: 40px;
+}
+
+.colorss{
+    color: white;
+}
+.colorssp{
+    width: 123px;
+    
+}
+
+small{
+    text-align: center;
+    color: white;
+    
+}
+
+.end{
+    margin-top: 130px;
+    align-items: flex-end!important;
+    text-align: center;
+    width: 100%;
+}
+
+
